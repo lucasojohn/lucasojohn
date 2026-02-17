@@ -35,30 +35,30 @@ Sou apaixonado por tecnologia e iniciei minha trajetória em 2019, quando comece
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-<img 
+<!-- <img 
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
+/> -->
+<!-- <img 
     align="left" 
     alt="React"
     title="React" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
+/> -->
+<!-- <img 
     align="left" 
     alt="Next.js" 
     title="Next.js"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
+/> -->
 <img 
     align="left" 
     alt="Bootstrap"
@@ -67,14 +67,14 @@ Sou apaixonado por tecnologia e iniciei minha trajetória em 2019, quando comece
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
-<img 
+<!-- <img 
     align="left" 
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
+/> -->
 <img 
     align="left" 
     alt="PHP" 
