@@ -122,8 +122,7 @@ Sou apaixonado por tecnologia e iniciei minha trajetória em 2019, quando comece
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasojohn&show_icons=true&locale=pt-br&theme=tokyonight&include_allcommits=true"
   />
     
-  <img 
-      align="left" 
+  <img  
       alt="GitHub Stats" 
       height="200"
       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasojohn&theme=tokyonight&layout=compact"
